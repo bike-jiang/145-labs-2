@@ -16,3 +16,8 @@ def find_num(x):
 find_num([1, 2, 4, 5])
 
 print("abc")
+
+x = {"a": 1, "b": 2}
+print(x["a"])
+
+
