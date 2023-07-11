@@ -9,6 +9,8 @@ def find_num(x):
     for num in x:
         if num == 3:
             print("Found the correct number")
+        else:
+            print("No number found")
 
 
 find_num([1, 2, 4, 5])
